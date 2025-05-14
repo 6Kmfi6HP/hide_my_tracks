@@ -1,0 +1,26 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs and backups
+*.log
+*.bak
+*.backup
+*.tmp
+
+# Testing and local development
+/test/
+/local/
+/backup/ 
